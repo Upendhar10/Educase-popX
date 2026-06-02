@@ -127,7 +127,7 @@ const Login: React.FC = () => {
       {/* Header */}
       <div className="mb-4">
         <h1 className="text-2xl font-bold text-gray-800">
-          Sign in to your PopX account
+          Login to your PopX account.
         </h1>
 
         <p className="text-xs text-gray-500 mt-2">

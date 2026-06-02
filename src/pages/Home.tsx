@@ -15,7 +15,7 @@ const Home: React.FC = () => {
       </div>
 
       <div className="flex flex-col gap-2">
-        <Button to="/signup" variant="primary">
+        <Button to="/register" variant="primary">
           Create Account
         </Button>
 
